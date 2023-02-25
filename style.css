@@ -1,0 +1,21 @@
+html {
+	font-size: 15px;
+}
+body {
+	font-family: Inter, sans-serif;
+	background: black;
+	color: white;
+}
+img,
+svg {
+	height: 100%;
+	width: 100%;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+.sec1_profileImg {
+	height: 200px;
+	width: 200px;
+}
